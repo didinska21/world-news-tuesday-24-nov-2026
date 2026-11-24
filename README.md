@@ -42,3 +42,12 @@ Russian jet, the Himalayan flood, and America's Thanksgiving getaway.
   headline and a two-line summary.
 - "More of the Day": 38 briefs in three columns, each tagged with
   its region code, plus a region key with per-region story counts.
+
+## Date discipline
+
+The pool was built only from reports dated Tuesday 24 November
+2026. Stories that merely continued from Monday or earlier — and
+anything that could not be dated to the Tuesday — were dropped,
+even when they were prominent. Counts on the page (44 stories,
+8 regions, 6 leads + 38 briefs) are the counts in the image,
+nothing rounded.
